@@ -1,0 +1,9 @@
+{'arg':'mode','vec':false}
+{'arg':'build'}
+{'arg':'add','id':'1'}
+{'arg':'add','id':'2'}
+{'arg':'link','from':'1','to':'2','id':'1'}
+{'arg':'init','type':'grid'}
+{'arg':'light','point':true,'id':'1'}
+{'arg':'light','point':false,'id':'1'}
+{'arg':'light','point':true,'id':'2'}
