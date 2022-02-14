@@ -2,7 +2,7 @@
 A visual noip graphy theory debugger.一个可视化的信息学竞赛中图的调试工具
 
 # 演示
-![演示](1.gif)
+![演示](https://www.gcteamo.com/1.gif)
 
 洛谷p3379，使用tarjan算法求lca，将其中并查集的部分的可视化，可以看到路径压缩的过程
 （参考demo）
@@ -87,7 +87,7 @@ demo文件夹中提供了两个例子，一个是最开始演示的程序，另�
 
     这里提供两个分配的方式进行参考<br>
     如果使用邻接表进行建图，可以直接借用edge数组下标，如图<br>
-    ![补充](2.png)
+    ![补充](https://www.gcteamo.com/2.png)
     (demo中的spfa采用这种方式)<br>
     对于其他建图方式，比如有一个从id为a的点指向id为b的点的线段的线段id可以表示为a*10+b<br>
     (demo中的lca_tarjan采用这种方式)<br>
